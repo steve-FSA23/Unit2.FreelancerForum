@@ -48,7 +48,7 @@ function updateFreelancers() {
 updateFreelancers();
 
 //Simulate new freelancers appearing every few seconds
-newFunction(); // Update every 5 seconds
+newFunction(); // Update every 4 seconds
 
 function newFunction() {
     setInterval(() => {
